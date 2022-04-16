@@ -1,0 +1,22 @@
+[
+  {
+    name: "Dave",
+    occupation: "Developer",
+    address: {
+      houseNumber: "1",
+      line1: "Street",
+      line2: "Town",
+      city: "Cardiff"
+    }
+  },
+  {
+    name: "John",
+    occupation: "Pilot",
+    address: {
+      houseNumber: "5",
+      line1: "Street",
+      line2: "Town",
+      city: "London"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+<documents>
+	<document>
+		<name>Dave</name>
+		<occupation>Developer</occupation>
+		<address>
+			<houseNumber>1</houseNumber>
+			<line1>Street</line1>
+			<line2>Town</line2>
+			<city>Cardiff</city>
+		</address>
+	</document>
+	<document>
+		<name>John</name>
+		<occupation>Pilot</occupation>
+		<address>
+			<houseNumber>5</houseNumber>
+			<line1>Street</line1>
+			<line2>Town</line2>
+			<city>London</city>
+		</address>
+	</document>
+</documents>

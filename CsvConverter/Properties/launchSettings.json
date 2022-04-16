@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}

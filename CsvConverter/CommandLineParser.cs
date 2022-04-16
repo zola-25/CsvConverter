@@ -38,7 +38,7 @@ namespace CsvConverter
             parser.SetupHelp("?", "help")
                 .Callback(text => {
                     Console.WriteLine(text);
-                    Console.WriteLine("Example: csvConverter.exe -i input.csv -o output.json -t JSON");
+                    Console.WriteLine("Example running from Command Line: ./csvConverter.exe -i input.csv -o output.json -t JSON --nestingDelimiter _");
                     Console.ReadLine();
                     Environment.Exit(0);
                 });
